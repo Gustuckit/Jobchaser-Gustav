@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "title": "Software Engineer",
+    "tags": [
+      "JavaScript, ",
+      "Python"
+    ],
+    "email": "google@gmail.com"
+  },
+  {
+    "id": 2,
+    "company": "Apple",
+    "title": "Software Engineer",
+    "tags": [
+      "C++, ",
+      "Rust"
+    ],
+    "email": "google@gmail.com"
+  }
+]
